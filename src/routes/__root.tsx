@@ -1,5 +1,6 @@
 import { createRootRoute, HeadContent, Scripts } from "@tanstack/react-router";
 
+import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 
 import appCss from "../styles.css?url";
@@ -51,6 +52,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
 			<body className="font-sans antialiased">
 				<Header />
 				{children}
+				<Footer />
 				<Scripts />
 			</body>
 		</html>
