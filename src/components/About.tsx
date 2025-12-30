@@ -8,9 +8,9 @@ function About() {
 					</h2>
 					<div className="space-y-4 text-lg leading-relaxed text-muted-foreground">
 						<p>
-							Welcome to the{" "}
+							Welcome to{" "}
 							<span className="font-semibold text-foreground">
-								Inverted Whingers
+								The Inverted Whingers
 							</span>
 							, a football podcast where we dive deep into the beautiful game.
 							From player debates to controversial takes on the sport, we cover
