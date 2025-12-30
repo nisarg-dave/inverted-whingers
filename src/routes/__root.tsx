@@ -24,6 +24,11 @@ export const Route = createRootRoute({
 				rel: "stylesheet",
 				href: appCss,
 			},
+			{
+				rel: "icon",
+				type: "image/png",
+				href: "/favicon.png",
+			},
 			// Google Fonts
 			{
 				rel: "preconnect",
