@@ -8,6 +8,6 @@ const app = new cdk.App();
 new InfraStack(app, 'InvertedWhingersStack', {
   env: {
     account: process.env.CDK_DEFAULT_ACCOUNT,
-    region: process.env.AWS_REGION || process.env.CDK_DEFAULT_REGION || 'us-east-1',
+    region: process.env.AWS_REGION || process.env.CDK_DEFAULT_REGION || 'ap-southeast-2',
   },
 });
