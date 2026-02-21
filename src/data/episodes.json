@@ -5,8 +5,84 @@
 			"title": "The Rules That Unbind Us All",
 			"description": "We discuss the controversial rules in football and debate what changes we'd love to see.",
 			"date": "September 6, 2025",
-			"duration": "1h 34min",
+			"duration": "1hr 34min",
 			"link": "https://soundcloud.com/user-919054476/the-football-podcast-s2526-ep1-the-rules-the-unbind-us-all?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+		}
+	],
+	"2024/25": [
+		{
+			"id": 1,
+			"title": "Club Ownership Structures",
+			"description": "We explore the different ownership structures in football clubs and if one is better than the other.",
+			"date": "October 21, 2024",
+			"duration": "1hr 38min",
+			"link": "https://open.spotify.com/episode/6lJuiEckvEcoLm62KAApLw?si=azw2xJ3rTGGyWqdRqo4rNg"
+		},
+		{
+			"id": 2,
+			"title": "The Christmas Episode",
+			"description": "We discuss home ground advantage and how crowd atmosphere can impact players - both positively and negatively.",
+			"date": "December 29, 2024",
+			"duration": "1hr 14min",
+			"link": "https://open.spotify.com/episode/5x07NTHDnJnTlFIoKJdaXw?si=kUIiB35JTsaOEmLObQo5FQ"
+		},
+		{
+			"id": 3,
+			"title": "Best Elevens",
+			"description": "We go through UEFA's Team of the Tournament from the last decade, debate our favourites, and create our own predicted 2024/25 Team of the Year.",
+			"date": "April 12, 2025",
+			"duration": "2hr 9min",
+			"link": "https://open.spotify.com/episode/00ST568b7qZlzyzM4kIlh6?si=f58elZCaQT6Yvox7Xk7h0A"
+		}
+	],
+	"2023/24": [
+		{
+			"id": 1,
+			"title": "Football in Australia",
+			"description": "We explore why football struggles to gain mainstream popularity in Australia despite the nation's sporting culture.",
+			"date": "August 19, 2023",
+			"duration": "1hr 20min",
+			"link": "https://open.spotify.com/episode/7uEZ5cRKYJjMqjB1wUMoo3?si=6tciwUMwTZOBvtykFNZIGQ"
+		},
+		{
+			"id": 2,
+			"title": "All About The Money",
+			"description": "We discuss the new Champions League and World Cup formats - are they really about improving the competitions, or just UEFA and FIFA's way of squeezing more money out of more games?",
+			"date": "September 23, 2023",
+			"duration": "1hr 31min",
+			"link": "https://open.spotify.com/episode/028CHYKNqMmp4CoEOg1l53?si=ppIr2dLXRPOBM1uV-mgb6w"
+		},
+		{
+			"id": 3,
+			"title": "The Tier List",
+			"description": "We discuss the lack of a proper winter break and how the short Christmas pause doesn't give teams enough time to reset for the second half of the season. Plus, we rank players from Barcelona, Man City, and PSG in our tier lists.",
+			"date": "December 20, 2023",
+			"duration": "2hr 23min",
+			"link": "https://open.spotify.com/episode/5AAQBM2jnm6N9tY01LJ5qV?si=O3PLJ82IRJSZZ4U0uSr_tA"
+		},
+		{
+			"id": 4,
+			"title": "Individual Titles",
+			"description": "We discuss the reforms needed for the Ballon d'Or and debate how the winner should actually be chosen.",
+			"date": "February 8, 2024",
+			"duration": "1hr 50min",
+			"link": "https://open.spotify.com/episode/3j0sYjUftx0lK8r7K8tDnq?si=4m7paYEaTLWB-e4Vv4yksg"
+		},
+		{
+			"id": 5,
+			"title": "Financial Fair Play",
+			"description": "We discuss Financial Fair Play - what it means on paper versus how it's being applied inconsistently across clubs, even within the same competitions.",
+			"date": "April 15, 2024",
+			"duration": "1hr 17min",
+			"link": "https://open.spotify.com/episode/5RoYBaFubJ1O3Il4zCmnfb?si=ZISiIkjjTpGeil-zY7e4NA"
+		},
+		{
+			"id": 6,
+			"title": "Battle of the International Tournaments",
+			"description": "We compare the Euros and Copa America, debating the different challenges teams face in each tournament.",
+			"date": "June 29, 2024",
+			"duration": "1hr 35min",
+			"link": "https://open.spotify.com/episode/5tGuo9vUH3GrLL8DcM4wfx?si=qaIniCOlQXS5Sl5RHz25jA"
 		}
 	]
 }
