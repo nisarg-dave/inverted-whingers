@@ -51,8 +51,8 @@ function Episodes() {
 					</div>
 				</div>
 				<div className="space-y-6">
-					{episodes.map((episode, index) => (
-						<Episode key={episode.id} episode={episode} index={index} />
+					{episodes.map((episode) => (
+						<Episode key={episode.id} episode={episode} />
 					))}
 				</div>
 			</div>

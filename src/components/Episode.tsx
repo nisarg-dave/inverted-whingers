@@ -11,7 +11,7 @@ interface Episode {
 	link: string;
 }
 
-function Episode({ episode, index }: { episode: Episode; index: number }) {
+function Episode({ episode }: { episode: Episode }) {
 	return (
 		<Card
 			key={episode.id}
@@ -21,7 +21,7 @@ function Episode({ episode, index }: { episode: Episode; index: number }) {
 				<div className="flex-1 space-y-3">
 					<div className="flex items-center gap-3 text-sm text-muted-foreground">
 						<span className="font-mono font-semibold text-primary">
-							EP {String(index + 1).padStart(2, "0")}
+							EP {String(episode.id).padStart(2, "0")}
 						</span>
 						<span className="h-1 w-1 rounded-full bg-muted-foreground"></span>
 						<div className="flex items-center gap-1.5">
